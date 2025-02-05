@@ -1,0 +1,338 @@
+matchId : 5495717
+label : Shabab Al Ahli Dubai - Al Ain, 0 - 3
+date : November 26, 2023 at 4:30:00 PM GMT+1
+dateutc : 2023-11-26 15:30:00
+winner : 16926
+status : Played
+duration : Regular
+gameweek : 8
+competitionId : 867
+competition_name : ADNOC Pro League
+seasonId : 189195
+season_name : 2023/2024
+roundId : 4429683
+round_name : Regular Season
+matchPeriod : 1H
+
+Unique Teams:
+team_name: Shabab Al Ahli Dubai, team_id: 16925, team_formation: 2002-04-04 00:00:00
+team_name: Al Ain, team_id: 16926, team_formation: 4-2-3-1
+
+Unique Players:
+Team: Al Ain
+Player ID: 368525, Player Name: Park Yong-Woo
+Player ID: 547434, Player Name: M. Palacios
+Player ID: 580720, Player Name: Erik
+Player ID: 638577, Player Name: Kouame Kouadio
+Player ID: 581018, Player Name: Yahia Nader
+Player ID: 369475, Player Name: Saeed Jumaa
+Player ID: 278242, Player Name: O. Atzili
+Player ID: 470513, Player Name: Khalid Al Hashemi
+Player ID: 573635, Player Name: S. Rahimi
+Player ID: 428474, Player Name: K. Laba
+Player ID: 126426, Player Name: Khalid Eisa
+Player ID: 126322, Player Name: Ahmed Barman
+Player ID: 614272, Player Name: Jonatas
+Player ID: 270339, Player Name: A. Romero
+Player ID: 1031382, Player Name: A. Trawri
+Player ID: 900893, Player Name: J. Loulendo
+
+
+Team: Shabab Al Ahli Dubai
+Player ID: 230897, Player Name: F. Cartabia
+Player ID: 332893, Player Name: A. Ganiev
+Player ID: 644808, Player Name: MateusÃ£o
+Player ID: 201955, Player Name: Tariq Al Hammadi
+Player ID: 589764, Player Name: Ahmed Jamil
+Player ID: 648143, Player Name: Harib Abdalla Suhail
+Player ID: 547485, Player Name: Renan
+Player ID: 582453, Player Name: Yahya Al Ghassani
+Player ID: 126528, Player Name: Mohammed Marzooq
+Player ID: 669896, Player Name: Saeed Suleiman
+Player ID: 169428, Player Name: Hassan Hamza Ali Hussain
+Player ID: 234242, Player Name: Abdullah Al-Naqbi
+Player ID: 597591, Player Name: Guilherme Bala
+Player ID: 553263, Player Name: Yuri CÃ©sar
+Player ID: 595318, Player Name: Marwan Fahad
+Player ID: 399880, Player Name: Mohammed Jumaa
+
+
+
+Unique Goalkeepers:
+goalkeeper_name: Hassan Hamza Ali Hussain, goalkeeper_id: 169428.0, team_name: Shabab Al Ahli Dubai
+goalkeeper_name: Khalid Eisa, goalkeeper_id: 126426.0, team_name: Al Ain
+
+Unique Team State:
+team_name: Shabab Al Ahli Dubai, team_id: 16925, role: side_home
+team_name: Al Ain, team_id: 16926, role: side_away
+
+Goals Information:
+Player Name: K. Laba, Team Name: Al Ain, Match Timestamp: 00:08:12.943000
+Player Name: M. Palacios, Team Name: Al Ain, Match Timestamp: 00:22:42.993000
+Player Name: K. Laba, Team Name: Al Ain, Match Timestamp: 01:21:45.162000
+
+Unique Event Types with Counts and Teams:
+Unique values in event_type_name:
+pass: 666, Al Ain: 359, Shabab Al Ahli Dubai: 307
+duel: 444, Al Ain: 222, Shabab Al Ahli Dubai: 222
+interception: 101, Al Ain: 53, Shabab Al Ahli Dubai: 48
+touch: 97, Shabab Al Ahli Dubai: 62, Al Ain: 35
+game_interruption: 82, Shabab Al Ahli Dubai: 82
+throw_in: 44, Shabab Al Ahli Dubai: 25, Al Ain: 19
+shot: 29, Al Ain: 17, Shabab Al Ahli Dubai: 12
+free_kick: 28, Shabab Al Ahli Dubai: 15, Al Ain: 13
+infraction: 28, Al Ain: 14, Shabab Al Ahli Dubai: 14
+corner: 22, Al Ain: 14, Shabab Al Ahli Dubai: 8
+acceleration: 15, Shabab Al Ahli Dubai: 12, Al Ain: 3
+goal_kick: 14, Al Ain: 8, Shabab Al Ahli Dubai: 6
+shot_against: 11, Shabab Al Ahli Dubai: 9, Al Ain: 2
+clearance: 10, Shabab Al Ahli Dubai: 7, Al Ain: 3
+goalkeeper_exit: 3, Shabab Al Ahli Dubai: 2, Al Ain: 1
+offside: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+penalty: 1, Al Ain: 1
+
+
+Unique values in second_event_type_name_1:
+forward_pass: 238, Al Ain: 129, Shabab Al Ahli Dubai: 109
+lateral_pass: 210, Al Ain: 129, Shabab Al Ahli Dubai: 81
+defensive_duel: 149, Shabab Al Ahli Dubai: 80, Al Ain: 69
+back_pass: 103, Shabab Al Ahli Dubai: 56, Al Ain: 47
+ground_duel: 86, Al Ain: 50, Shabab Al Ahli Dubai: 36
+ball_out: 80, Shabab Al Ahli Dubai: 80
+aerial_duel: 76, Al Ain: 38, Shabab Al Ahli Dubai: 38
+loose_ball_duel: 67, Shabab Al Ahli Dubai: 34, Al Ain: 33
+short_or_medium_pass: 62, Shabab Al Ahli Dubai: 32, Al Ain: 30
+loss: 53, Shabab Al Ahli Dubai: 28, Al Ain: 25
+dribble: 49, Shabab Al Ahli Dubai: 27, Al Ain: 22
+carry: 45, Shabab Al Ahli Dubai: 33, Al Ain: 12
+cross: 28, Al Ain: 14, Shabab Al Ahli Dubai: 14
+head_pass: 28, Shabab Al Ahli Dubai: 18, Al Ain: 10
+foul: 27, Al Ain: 14, Shabab Al Ahli Dubai: 13
+recovery: 23, Shabab Al Ahli Dubai: 12, Al Ain: 11
+progressive_run: 21, Shabab Al Ahli Dubai: 13, Al Ain: 8
+deep_completion: 20, Al Ain: 12, Shabab Al Ahli Dubai: 8
+opportunity: 16, Al Ain: 8, Shabab Al Ahli Dubai: 8
+foul_suffered: 16, Al Ain: 9, Shabab Al Ahli Dubai: 7
+save: 8, Shabab Al Ahli Dubai: 6, Al Ain: 2
+shot_block: 7, Shabab Al Ahli Dubai: 5, Al Ain: 2
+head_shot: 4, Al Ain: 3, Shabab Al Ahli Dubai: 1
+under_pressure: 4, Al Ain: 2, Shabab Al Ahli Dubai: 2
+hand_pass: 4, Shabab Al Ahli Dubai: 2, Al Ain: 2
+touch_in_box: 3, Al Ain: 2, Shabab Al Ahli Dubai: 1
+linkup_play: 3, Shabab Al Ahli Dubai: 2, Al Ain: 1
+conceded_goal: 3, Shabab Al Ahli Dubai: 3
+goal: 3, Al Ain: 3
+pass_to_final_third: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+whistle: 2, Shabab Al Ahli Dubai: 2
+free_kick_shot: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+assist: 2, Al Ain: 2
+pass: 1, Al Ain: 1
+free_kick_cross: 1, Shabab Al Ahli Dubai: 1
+second_assist: 1, Al Ain: 1
+shot_after_corner: 1, Al Ain: 1
+acceleration: 1, Shabab Al Ahli Dubai: 1
+yellow_card: 1, Shabab Al Ahli Dubai: 1
+
+
+Unique values in second_event_type_name_2:
+short_or_medium_pass: 300, Al Ain: 169, Shabab Al Ahli Dubai: 131
+ground_duel: 180, Shabab Al Ahli Dubai: 98, Al Ain: 82
+loss: 81, Al Ain: 41, Shabab Al Ahli Dubai: 40
+long_pass: 81, Al Ain: 41, Shabab Al Ahli Dubai: 40
+offensive_duel: 75, Al Ain: 43, Shabab Al Ahli Dubai: 32
+recovery: 66, Shabab Al Ahli Dubai: 34, Al Ain: 32
+progressive_pass: 35, Al Ain: 21, Shabab Al Ahli Dubai: 14
+pass_to_final_third: 33, Shabab Al Ahli Dubai: 17, Al Ain: 16
+lateral_pass: 33, Al Ain: 18, Shabab Al Ahli Dubai: 15
+dribbled_past_attempt: 26, Al Ain: 13, Shabab Al Ahli Dubai: 13
+carry: 22, Shabab Al Ahli Dubai: 12, Al Ain: 10
+head_pass: 20, Al Ain: 11, Shabab Al Ahli Dubai: 9
+pass: 16, Al Ain: 9, Shabab Al Ahli Dubai: 7
+touch_in_box: 15, Al Ain: 9, Shabab Al Ahli Dubai: 6
+forward_pass: 13, Al Ain: 7, Shabab Al Ahli Dubai: 6
+opportunity: 9, Al Ain: 7, Shabab Al Ahli Dubai: 2
+counterpressing_recovery: 9, Shabab Al Ahli Dubai: 6, Al Ain: 3
+deep_completed_cross: 8, Al Ain: 5, Shabab Al Ahli Dubai: 3
+foul_suffered: 7, Al Ain: 4, Shabab Al Ahli Dubai: 3
+linkup_play: 6, Shabab Al Ahli Dubai: 4, Al Ain: 2
+under_pressure: 6, Shabab Al Ahli Dubai: 6
+save_with_reflex: 6, Shabab Al Ahli Dubai: 5, Al Ain: 1
+key_pass: 4, Shabab Al Ahli Dubai: 3, Al Ain: 1
+shot_block: 3, Shabab Al Ahli Dubai: 2, Al Ain: 1
+pass_to_penalty_area: 3, Al Ain: 2, Shabab Al Ahli Dubai: 1
+cross: 3, Shabab Al Ahli Dubai: 2, Al Ain: 1
+loose_ball_duel: 3, Al Ain: 2, Shabab Al Ahli Dubai: 1
+shot_assist: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+sliding_tackle: 2, Al Ain: 1, Shabab Al Ahli Dubai: 1
+cross_blocked: 2, Shabab Al Ahli Dubai: 2
+deep_completion: 2, Al Ain: 2
+hand_pass: 2, Al Ain: 1, Shabab Al Ahli Dubai: 1
+third_assist: 2, Al Ain: 2
+penalty_goal: 1, Al Ain: 1
+penalty_conceded_goal: 1, Shabab Al Ahli Dubai: 1
+red_card: 1, Shabab Al Ahli Dubai: 1
+progressive_run: 1, Al Ain: 1
+shot_after_corner: 1, Al Ain: 1
+yellow_card: 1, Al Ain: 1
+penalty_foul: 1, Shabab Al Ahli Dubai: 1
+smart_pass: 1, Shabab Al Ahli Dubai: 1
+
+
+Unique values in second_event_type_name_3:
+short_or_medium_pass: 103, Shabab Al Ahli Dubai: 52, Al Ain: 51
+loss: 68, Al Ain: 36, Shabab Al Ahli Dubai: 32
+offensive_duel: 56, Al Ain: 28, Shabab Al Ahli Dubai: 28
+progressive_pass: 54, Al Ain: 30, Shabab Al Ahli Dubai: 24
+recovery: 48, Al Ain: 26, Shabab Al Ahli Dubai: 22
+ground_duel: 32, Al Ain: 17, Shabab Al Ahli Dubai: 15
+pass_to_final_third: 30, Shabab Al Ahli Dubai: 15, Al Ain: 15
+counterpressing_recovery: 28, Al Ain: 16, Shabab Al Ahli Dubai: 12
+under_pressure: 23, Shabab Al Ahli Dubai: 20, Al Ain: 3
+carry: 13, Shabab Al Ahli Dubai: 9, Al Ain: 4
+pass: 12, Al Ain: 7, Shabab Al Ahli Dubai: 5
+pass_to_penalty_area: 11, Al Ain: 6, Shabab Al Ahli Dubai: 5
+long_pass: 8, Shabab Al Ahli Dubai: 5, Al Ain: 3
+key_pass: 8, Al Ain: 6, Shabab Al Ahli Dubai: 2
+sliding_tackle: 7, Al Ain: 6, Shabab Al Ahli Dubai: 1
+touch_in_box: 7, Al Ain: 5, Shabab Al Ahli Dubai: 2
+lateral_pass: 5, Shabab Al Ahli Dubai: 3, Al Ain: 2
+shot_after_corner: 4, Al Ain: 4
+progressive_run: 4, Al Ain: 2, Shabab Al Ahli Dubai: 2
+shot: 3, Al Ain: 2, Shabab Al Ahli Dubai: 1
+shot_assist: 3, Al Ain: 2, Shabab Al Ahli Dubai: 1
+head_pass: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+linkup_play: 2, Al Ain: 1, Shabab Al Ahli Dubai: 1
+shot_after_throw_in: 1, Shabab Al Ahli Dubai: 1
+deep_completed_cross: 1, Al Ain: 1
+forward_pass: 1, Al Ain: 1
+through_pass: 1, Shabab Al Ahli Dubai: 1
+shot_block: 1, Al Ain: 1
+
+
+Unique values in second_event_type_name_4:
+short_or_medium_pass: 67, Al Ain: 36, Shabab Al Ahli Dubai: 31
+progressive_pass: 31, Al Ain: 18, Shabab Al Ahli Dubai: 13
+counterpressing_recovery: 29, Shabab Al Ahli Dubai: 16, Al Ain: 13
+pass_to_penalty_area: 21, Al Ain: 13, Shabab Al Ahli Dubai: 8
+recovery: 20, Al Ain: 11, Shabab Al Ahli Dubai: 9
+offensive_duel: 16, Al Ain: 8, Shabab Al Ahli Dubai: 8
+carry: 15, Shabab Al Ahli Dubai: 8, Al Ain: 7
+touch_in_box: 15, Shabab Al Ahli Dubai: 9, Al Ain: 6
+pass_to_final_third: 14, Al Ain: 7, Shabab Al Ahli Dubai: 7
+under_pressure: 9, Shabab Al Ahli Dubai: 8, Al Ain: 1
+loss: 6, Shabab Al Ahli Dubai: 3, Al Ain: 3
+lateral_pass: 5, Al Ain: 4, Shabab Al Ahli Dubai: 1
+pass: 4, Al Ain: 3, Shabab Al Ahli Dubai: 1
+sliding_tackle: 4, Shabab Al Ahli Dubai: 4
+progressive_run: 4, Shabab Al Ahli Dubai: 3, Al Ain: 1
+key_pass: 3, Al Ain: 3
+shot_assist: 2, Al Ain: 1, Shabab Al Ahli Dubai: 1
+through_pass: 1, Al Ain: 1
+long_pass: 1, Al Ain: 1
+second_assist: 1, Al Ain: 1
+
+
+Unique values in second_event_type_name_5:
+short_or_medium_pass: 31, Al Ain: 21, Shabab Al Ahli Dubai: 10
+progressive_pass: 13, Al Ain: 7, Shabab Al Ahli Dubai: 6
+pass_to_penalty_area: 12, Al Ain: 7, Shabab Al Ahli Dubai: 5
+carry: 11, Shabab Al Ahli Dubai: 7, Al Ain: 4
+counterpressing_recovery: 8, Al Ain: 4, Shabab Al Ahli Dubai: 4
+recovery: 7, Al Ain: 6, Shabab Al Ahli Dubai: 1
+under_pressure: 5, Shabab Al Ahli Dubai: 4, Al Ain: 1
+smart_pass: 3, Shabab Al Ahli Dubai: 2, Al Ain: 1
+sliding_tackle: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+offensive_duel: 2, Shabab Al Ahli Dubai: 1, Al Ain: 1
+touch_in_box: 2, Al Ain: 1, Shabab Al Ahli Dubai: 1
+shot_assist: 1, Al Ain: 1
+lateral_pass: 1, Al Ain: 1
+through_pass: 1, Shabab Al Ahli Dubai: 1
+pass_to_final_third: 1, Al Ain: 1
+
+
+
+Event Counts for Each Player:
+Team: Shabab Al Ahli Dubai
+F. Cartabia: pass: 27, duel: 18, throw_in: 1, acceleration: 3, corner: 4, free_kick: 4, touch: 3, back_pass: 4, defensive_duel: 5, short_or_medium_pass: 24, progressive_run: 2, forward_pass: 5, loss: 8, recovery: 3, ground_duel: 13, lateral_pass: 9, dribble: 4, loose_ball_duel: 2, aerial_duel: 3, cross: 1, free_kick_shot: 1, carry: 9, foul_suffered: 2, free_kick_cross: 1, head_pass: 2, counterpressing_recovery: 3, offensive_duel: 8, long_pass: 2, under_pressure: 3, cross_blocked: 1, opportunity: 1, shot_assist: 1, dribbled_past_attempt: 1, pass_to_final_third: 2, shot: 1, progressive_pass: 1, touch_in_box: 1
+
+A. Ganiev: pass: 41, duel: 14, corner: 2, free_kick: 2, infraction: 3, touch: 6, shot: 2, clearance: 1, interception: 1, forward_pass: 14, defensive_duel: 11, loss: 6, foul: 3, carry: 7, ground_duel: 13, lateral_pass: 18, back_pass: 6, loose_ball_duel: 1, short_or_medium_pass: 35, deep_completion: 2, progressive_run: 1, opportunity: 1, dribble: 1, cross: 2, long_pass: 3, pass_to_final_third: 7, offensive_duel: 2, head_pass: 1, key_pass: 2, deep_completed_cross: 1, progressive_pass: 7, penalty_foul: 1, recovery: 3, under_pressure: 5, pass_to_penalty_area: 4, sliding_tackle: 1, counterpressing_recovery: 1
+
+MateusÃ£o: duel: 23, interception: 4, touch: 5, shot: 5, pass: 12, aerial_duel: 11, head_pass: 3, foul_suffered: 2, lateral_pass: 3, loss: 15, progressive_run: 2, opportunity: 5, ground_duel: 10, back_pass: 3, defensive_duel: 1, short_or_medium_pass: 11, forward_pass: 2, loose_ball_duel: 2, linkup_play: 6, cross: 1, head_shot: 1, carry: 3, touch_in_box: 7, acceleration: 1, dribble: 1, under_pressure: 4, offensive_duel: 9, cross_blocked: 1, recovery: 4, pass_to_final_third: 1, shot_after_throw_in: 1, counterpressing_recovery: 2, sliding_tackle: 1
+
+Tariq Al Hammadi: duel: 4, pass: 22, interception: 4, touch: 3, defensive_duel: 1, lateral_pass: 5, back_pass: 8, shot_block: 1, aerial_duel: 2, loss: 6, forward_pass: 6, head_pass: 3, carry: 2, short_or_medium_pass: 19, loose_ball_duel: 1, ground_duel: 1, long_pass: 3, under_pressure: 4, pass_to_final_third: 3, recovery: 4, counterpressing_recovery: 2, progressive_pass: 1
+
+Ahmed Jamil: pass: 33, throw_in: 5, duel: 13, touch: 7, interception: 6, clearance: 1, forward_pass: 7, lateral_pass: 11, defensive_duel: 6, back_pass: 9, loose_ball_duel: 2, ground_duel: 8, aerial_duel: 3, short_or_medium_pass: 25, carry: 6, recovery: 9, head_pass: 3, dribble: 1, cross: 3, deep_completion: 1, shot_block: 1, progressive_run: 1, loss: 8, pass_to_final_third: 3, dribbled_past_attempt: 2, long_pass: 5, offensive_duel: 2, deep_completed_cross: 1, progressive_pass: 4, foul_suffered: 1, under_pressure: 2, counterpressing_recovery: 2, key_pass: 1, sliding_tackle: 1, shot_assist: 1, touch_in_box: 1, pass_to_penalty_area: 2      
+
+Harib Abdalla Suhail: touch: 11, pass: 27, acceleration: 6, duel: 23, interception: 3, shot: 1, throw_in: 7, corner: 1, free_kick: 1, loss: 14, recovery: 6, deep_completion: 1, progressive_run: 6, ground_duel: 20, forward_pass: 10, carry: 14, defensive_duel: 9, dribble: 6, lateral_pass: 4, cross: 2, loose_ball_duel: 3, opportunity: 1, back_pass: 5, short_or_medium_pass: 23, head_pass: 2, foul_suffered: 1, counterpressing_recovery: 3, offensive_duel: 11, key_pass: 1, pass_to_penalty_area: 3, progressive_pass: 6, long_pass: 2, touch_in_box: 3, pass_to_final_third: 5, dribbled_past_attempt: 1, under_pressure: 5
+
+Renan: throw_in: 6, pass: 37, duel: 28, touch: 11, clearance: 2, interception: 4, acceleration: 1, infraction: 5, shot: 2, free_kick: 1, head_pass: 5, defensive_duel: 12, forward_pass: 20, dribble: 3, back_pass: 5, 
+loose_ball_duel: 5, ground_duel: 20, loss: 11, lateral_pass: 11, carry: 10, cross: 3, foul: 5, foul_suffered: 1, aerial_duel: 3, under_pressure: 4, long_pass: 4, short_or_medium_pass: 30, offensive_duel: 8, recovery: 9, progressive_pass: 10, dribbled_past_attempt: 2, deep_completed_cross: 1, pass_to_final_third: 7, progressive_run: 2, pass_to_penalty_area: 3, counterpressing_recovery: 2, touch_in_box: 2, smart_pass: 2
+
+Yahya Al Ghassani: duel: 11, pass: 21, throw_in: 2, touch: 5, interception: 5, offside: 1, dribble: 1, lateral_pass: 5, loose_ball_duel: 3, back_pass: 9, ground_duel: 8, short_or_medium_pass: 18, loss: 5, cross: 2, 
+recovery: 4, carry: 5, forward_pass: 3, defensive_duel: 2, progressive_run: 2, pass_to_final_third: 2, long_pass: 1, offensive_duel: 6, under_pressure: 6, counterpressing_recovery: 2, pass_to_penalty_area: 2, progressive_pass: 3, shot_assist: 1, touch_in_box: 2, through_pass: 1
+
+Mohammed Marzooq: duel: 13, interception: 10, pass: 21, free_kick: 1, clearance: 1, infraction: 1, aerial_duel: 7, shot_block: 5, loss: 10, back_pass: 1, head_pass: 3, lateral_pass: 6, forward_pass: 13, recovery: 7, defensive_duel: 4, loose_ball_duel: 2, under_pressure: 2, foul: 1, short_or_medium_pass: 11, long_pass: 9, ground_duel: 4, progressive_pass: 6, pass_to_final_third: 2, carry: 1, counterpressing_recovery: 2, sliding_tackle: 1
+
+Saeed Suleiman: interception: 7, pass: 17, duel: 6, touch: 1, clearance: 2, free_kick: 1, head_pass: 5, forward_pass: 7, lateral_pass: 7, defensive_duel: 3, back_pass: 2, loose_ball_duel: 2, carry: 1, recovery: 8, short_or_medium_pass: 13, aerial_duel: 1, loss: 2, ground_duel: 3, progressive_pass: 5, long_pass: 3, pass_to_final_third: 1, counterpressing_recovery: 3, under_pressure: 1
+
+Hassan Hamza Ali Hussain: shot_against: 9, goalkeeper_exit: 2, pass: 16, goal_kick: 5, interception: 1, duel: 1, free_kick: 2, touch: 1, save: 6, conceded_goal: 3, forward_pass: 9, hand_pass: 3, lateral_pass: 6, aerial_duel: 1, short_or_medium_pass: 9, save_with_reflex: 5, long_pass: 7, recovery: 4, penalty_conceded_goal: 1, progressive_pass: 5, loss: 2, counterpressing_recovery: 1
+
+Abdullah Al-Naqbi: pass: 16, duel: 13, touch: 1, interception: 2, throw_in: 1, infraction: 1, lateral_pass: 7, loose_ball_duel: 5, aerial_duel: 1, defensive_duel: 4, dribble: 2, progressive_run: 1, forward_pass: 5, 
+loss: 3, foul_suffered: 2, deep_completion: 1, short_or_medium_pass: 15, back_pass: 1, recovery: 9, yellow_card: 1, ground_duel: 7, carry: 4, progressive_pass: 3, counterpressing_recovery: 7, sliding_tackle: 2, offensive_duel: 3, under_pressure: 1, long_pass: 1, pass_to_penalty_area: 1
+
+Guilherme Bala: duel: 17, touch: 3, pass: 11, infraction: 1, acceleration: 1, shot: 2, throw_in: 1, interception: 1, aerial_duel: 1, defensive_duel: 5, carry: 3, deep_completion: 1, dribble: 5, cross: 1, ground_duel: 13, loose_ball_duel: 3, foul: 1, forward_pass: 4, lateral_pass: 3, opportunity: 2, loss: 4, short_or_medium_pass: 9, recovery: 5, foul_suffered: 1, offensive_duel: 8, progressive_pass: 1, dribbled_past_attempt: 1, smart_pass: 1, counterpressing_recovery: 5, touch_in_box: 2, long_pass: 1, pass_to_final_third: 1, under_pressure: 2, through_pass: 1, pass_to_penalty_area: 1, sliding_tackle: 1
+
+Yuri CÃ©sar: duel: 14, pass: 12, touch: 5, infraction: 1, free_kick: 1, acceleration: 1, ground_duel: 11, back_pass: 2, defensive_duel: 6, loss: 5, short_or_medium_pass: 9, forward_pass: 5, foul: 1, loose_ball_duel: 2, carry: 3, cross: 1, deep_completion: 2, lateral_pass: 4, aerial_duel: 1, dribble: 1, offensive_duel: 5, under_pressure: 1, dribbled_past_attempt: 2, recovery: 2, pass_to_final_third: 4, key_pass: 1, linkup_play: 1, counterpressing_recovery: 2, long_pass: 2, pass_to_penalty_area: 2, progressive_pass: 4, touch_in_box: 1
+
+Marwan Fahad: pass: 4, throw_in: 2, duel: 4, infraction: 2, lateral_pass: 1, forward_pass: 3, defensive_duel: 2, foul: 2, aerial_duel: 1, progressive_run: 1, ground_duel: 3, short_or_medium_pass: 3, loss: 2, dribbled_past_attempt: 2, recovery: 1, carry: 1, offensive_duel: 1, long_pass: 1, red_card: 1, counterpressing_recovery: 1, pass_to_final_third: 1
+
+Mohammed Jumaa: duel: 1, pass: 1, defensive_duel: 1, forward_pass: 1, ground_duel: 1, head_pass: 1, loss: 2, pass_to_penalty_area: 1, short_or_medium_pass: 1
+
+
+
+Team: Al Ain
+Park Yong-Woo: duel: 1, pass: 9, touch: 1, interception: 1, aerial_duel: 1, lateral_pass: 3, carry: 1, back_pass: 1, forward_pass: 5, recovery: 4, short_or_medium_pass: 7, progressive_pass: 4, pass_to_final_third: 3, head_pass: 1, counterpressing_recovery: 2
+
+M. Palacios: duel: 15, pass: 22, corner: 2, shot: 2, interception: 1, touch: 2, ground_duel: 11, short_or_medium_pass: 17, opportunity: 2, forward_pass: 5, back_pass: 7, cross: 2, loose_ball_duel: 4, defensive_duel: 2, lateral_pass: 7, goal: 1, loss: 9, deep_completion: 1, dribble: 1, offensive_duel: 9, shot_after_corner: 1, pass_to_final_third: 2, third_assist: 1, progressive_pass: 5, long_pass: 2, recovery: 3, dribbled_past_attempt: 1, shot_block: 1, foul_suffered: 1, touch_in_box: 2, under_pressure: 1, sliding_tackle: 1, progressive_run: 2, counterpressing_recovery: 2, key_pass: 1, pass_to_penalty_area: 3, carry: 3
+
+Erik: clearance: 1, interception: 6, shot: 3, duel: 15, pass: 41, touch: 6, throw_in: 5, infraction: 3, acceleration: 1, loss: 12, opportunity: 2, dribble: 2, back_pass: 4, lateral_pass: 10, forward_pass: 19, short_or_medium_pass: 34, assist: 1, progressive_run: 2, defensive_duel: 7, carry: 5, ground_duel: 12, foul: 3, recovery: 8, shot_after_corner: 1, aerial_duel: 2, loose_ball_duel: 1, cross: 2, head_pass: 1, touch_in_box: 
+2, deep_completion: 1, offensive_duel: 5, pass_to_final_third: 6, dribbled_past_attempt: 3, long_pass: 5, deep_completed_cross: 2, yellow_card: 1, progressive_pass: 5, under_pressure: 1, counterpressing_recovery: 1, key_pass: 1, pass_to_penalty_area: 3
+
+Kouame Kouadio: duel: 12, touch: 5, pass: 45, interception: 10, clearance: 1, free_kick: 1, aerial_duel: 6, under_pressure: 3, lateral_pass: 23, recovery: 16, ground_duel: 5, back_pass: 4, forward_pass: 14, defensive_duel: 2, short_or_medium_pass: 37, loss: 10, carry: 3, shot_block: 2, dribble: 1, loose_ball_duel: 1, offensive_duel: 3, long_pass: 6, head_pass: 4, progressive_run: 1, counterpressing_recovery: 4, progressive_pass: 8, foul_suffered: 1, pass_to_final_third: 3, sliding_tackle: 1, pass_to_penalty_area: 2
+
+Yahia Nader: pass: 38, touch: 5, free_kick: 1, duel: 14, acceleration: 1, infraction: 1, interception: 1, lateral_pass: 20, short_or_medium_pass: 37, back_pass: 6, carry: 3, forward_pass: 11, ground_duel: 12, defensive_duel: 8, loose_ball_duel: 2, progressive_run: 1, loss: 3, foul_suffered: 1, foul: 1, head_pass: 1, pass_to_final_third: 3, long_pass: 1, offensive_duel: 4, sliding_tackle: 2, recovery: 8, pass_to_penalty_area: 1, progressive_pass: 6, counterpressing_recovery: 5, shot_assist: 1, touch_in_box: 2
+
+Saeed Jumaa: throw_in: 14, duel: 25, pass: 25, interception: 9, touch: 2, infraction: 1, aerial_duel: 3, defensive_duel: 12, lateral_pass: 8, short_or_medium_pass: 22, cross: 2, forward_pass: 10, loose_ball_duel: 2, loss: 13, foul_suffered: 2, dribble: 5, progressive_run: 1, carry: 3, back_pass: 3, foul: 1, recovery: 14, ground_duel: 20, head_pass: 3, dribbled_past_attempt: 3, touch_in_box: 1, progressive_pass: 3, offensive_duel: 8, counterpressing_recovery: 6, pass_to_penalty_area: 2, pass_to_final_third: 2, sliding_tackle: 1, shot_block: 1
+
+O. Atzili: touch: 1, duel: 15, pass: 31, corner: 5, interception: 2, shot: 1, infraction: 1, ground_duel: 12, forward_pass: 10, deep_completion: 5, cross: 4, lateral_pass: 11, short_or_medium_pass: 19, back_pass: 6, defensive_duel: 6, foul_suffered: 2, dribble: 1, loose_ball_duel: 3, loss: 7, assist: 1, opportunity: 1, foul: 1, offensive_duel: 6, progressive_pass: 7, pass_to_penalty_area: 7, deep_completed_cross: 2, long_pass: 6, pass_to_final_third: 7, third_assist: 1, recovery: 4, key_pass: 5, dribbled_past_attempt: 1, touch_in_box: 1, carry: 3, counterpressing_recovery: 2, linkup_play: 1, head_pass: 1, sliding_tackle: 2, shot_assist: 
+2
+
+Khalid Al Hashemi: duel: 14, interception: 8, pass: 43, infraction: 2, free_kick: 3, touch: 3, clearance: 1, aerial_duel: 3, defensive_duel: 8, head_pass: 4, loose_ball_duel: 3, foul: 2, short_or_medium_pass: 38, lateral_pass: 23, forward_pass: 17, progressive_run: 1, loss: 7, back_pass: 1, carry: 3, ground_duel: 8, progressive_pass: 10, recovery: 10, opportunity: 1, long_pass: 4, pass_to_final_third: 3, counterpressing_recovery: 6, touch_in_box: 1, under_pressure: 1
+
+S. Rahimi: interception: 4, pass: 22, duel: 15, corner: 6, shot: 2, touch: 1, infraction: 1, free_kick: 1, head_pass: 3, forward_pass: 7, dribble: 3, cross: 2, deep_completion: 2, opportunity: 2, ground_duel: 8, defensive_duel: 1, back_pass: 4, lateral_pass: 8, carry: 1, short_or_medium_pass: 17, recovery: 2, foul: 1, loose_ball_duel: 4, aerial_duel: 3, foul_suffered: 2, free_kick_shot: 1, loss: 9, long_pass: 2, touch_in_box: 
+3, offensive_duel: 7, pass_to_final_third: 2, progressive_pass: 4, pass_to_penalty_area: 3, sliding_tackle: 1, second_assist: 1
+
+K. Laba: duel: 29, shot: 10, pass: 13, interception: 2, touch: 1, offside: 1, infraction: 1, acceleration: 1, penalty: 1, aerial_duel: 16, touch_in_box: 10, head_shot: 3, cross: 2, short_or_medium_pass: 8, lateral_pass: 4, goal: 2, ground_duel: 11, head_pass: 3, second_assist: 1, deep_completion: 1, dribble: 3, opportunity: 7, back_pass: 3, forward_pass: 2, loose_ball_duel: 2, carry: 4, loss: 12, foul_suffered: 1, foul: 1, progressive_run: 1, linkup_play: 2, deep_completed_cross: 1, offensive_duel: 11, pass_to_final_third: 1, long_pass: 2, recovery: 2, penalty_goal: 1, shot_after_corner: 4, key_pass: 1, shot_assist: 1, pass_to_penalty_area: 2, progressive_pass: 2
+
+Khalid Eisa: pass: 27, goal_kick: 8, interception: 3, goalkeeper_exit: 1, shot_against: 2, touch: 1, free_kick: 2, short_or_medium_pass: 15, forward_pass: 12, loss: 9, recovery: 5, lateral_pass: 14, hand_pass: 3, save: 2, carry: 3, long_pass: 12, counterpressing_recovery: 1, save_with_reflex: 1, progressive_pass: 11, pass_to_final_third: 3
+
+Ahmed Barman: touch: 3, duel: 12, pass: 37, infraction: 2, interception: 5, loose_ball_duel: 2, lateral_pass: 17, head_pass: 1, forward_pass: 10, back_pass: 6, short_or_medium_pass: 33, defensive_duel: 6, deep_completion: 1, aerial_duel: 1, foul: 2, progressive_run: 1, loss: 6, recovery: 8, ground_duel: 9, carry: 2, pass_to_final_third: 5, long_pass: 3, dribbled_past_attempt: 1, progressive_pass: 4, counterpressing_recovery: 5, offensive_duel: 3, under_pressure: 1, key_pass: 1, pass_to_penalty_area: 1
+
+Jonatas: touch: 4, duel: 16, pass: 6, infraction: 2, shot: 1, loss: 4, defensive_duel: 6, forward_pass: 4, dribble: 3, loose_ball_duel: 2, lateral_pass: 1, ground_duel: 14, linkup_play: 1, foul: 2, short_or_medium_pass: 6, progressive_run: 1, dribbled_past_attempt: 1, recovery: 1, progressive_pass: 2, touch_in_box: 1, offensive_duel: 8, carry: 2, counterpressing_recovery: 1, smart_pass: 1
+
+A. Romero: duel: 4, pass: 14, corner: 1, interception: 1, dribble: 1, forward_pass: 9, deep_completion: 3, ground_duel: 4, cross: 1, short_or_medium_pass: 11, defensive_duel: 1, foul_suffered: 1, lateral_pass: 4, progressive_pass: 5, offensive_duel: 3, deep_completed_cross: 1, dribbled_past_attempt: 1, long_pass: 2, pass_to_penalty_area: 4, key_pass: 1, loss: 1, recovery: 1, progressive_run: 1, through_pass: 1, counterpressing_recovery: 1, carry: 1
+
+A. Trawri: pass: 5, duel: 1, lateral_pass: 1, back_pass: 2, forward_pass: 2, dribble: 1, short_or_medium_pass: 5, foul_suffered: 1, loss: 2, ground_duel: 1, offensive_duel: 1
+
+J. Loulendo: pass: 1, duel: 1, short_or_medium_pass: 1, foul_suffered: 1, shot_assist: 1, ground_duel: 1, loss: 1, offensive_duel: 1
+
+
+
+
+Event Counts for Each Goalkeeper:
+Team: Shabab Al Ahli Dubai
+Hassan Hamza Ali Hussain: shot: 9, free_kick: 1, penalty: 1, opportunity: 8, head_shot: 2, goal: 3, free_kick_shot: 1, shot_after_corner: 4, touch_in_box: 7, penalty_goal: 1
+
+
+Team: Al Ain
+Khalid Eisa: shot: 2, opportunity: 2, touch_in_box: 1
