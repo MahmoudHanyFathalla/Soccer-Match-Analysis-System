@@ -4,6 +4,8 @@ A comprehensive system for analyzing and visualizing soccer match events, player
 ## Overview
 This system processes and analyzes soccer match data from Excel files, providing detailed analysis of match events, player statistics, team formations, and real-time visualization of match movements. The project consists of three main components:
 
+![GUI](1.PNG)
+
 1. Constant Analysis Module (`constant_analysis.py`)
 2. GUI Visualization Tool (`gui.py`)
 3. Data Structure Analysis (`row_name_analysis.py`)
